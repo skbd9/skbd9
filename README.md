@@ -22,10 +22,8 @@ https://github.com/skbd9/Pizza_data_analysis_in_Excel
 
 ## Let's Connect
 I'm always open to collaboration and exploring new opportunities.
-
 Connect with me on 
-Twitter
-(https://x.com/SHAHRIAR7651?t=tpZqBfd0DvVd8CxD1POw8Q&s=09)
+Twitter <a href="https://twitter.com/SHAHRIAR7651">Follow @SHAHRIAR7651</a>.
 
 Thank you for visiting, and I look forward to applying my diverse skill set to unlock insights from your data!
 
