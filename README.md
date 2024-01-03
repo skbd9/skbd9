@@ -4,7 +4,7 @@ I bring a combination of analytical skills, domain knowledge, and a strong commi
 
 ## About Me
 - 📊 I specialize in exploratory data analysis, leveraging statistical modeling techniques to derive meaningful insights from complex datasets.
-- 🛠️ My proficiency extends to using tools such as <strong>Excel, Power BI, SQL, and BigQuery</strong>, enabling me to not only analyze but also visualize and derive actionable intelligence from diverse data sources.
+- 🛠️ My proficiency extends to using tools such as <strong><span style="color:blue;">Excel, Power BI, SQL, and BigQuery</span></strong>, enabling me to not only analyze but also visualize and derive actionable intelligence from diverse data sources.
 
   ## Skills
 
