@@ -14,7 +14,11 @@ I bring a combination of analytical skills, domain knowledge, and a strong commi
 - Statistical Analysis and Modeling
 - Web Scraping
 - Data Visualization
-  
+
+## Projects
+<strong>Project-1</strong>: 
+Pizza Sales Analysis 🍕📊,Dive into a comprehensive examination of revenue, order values, category contributions, and customer behavior over a specific period. Our analysis unveils daily and monthly trends, identifies top sellers, and paints a detailed picture of the dynamic pizza sales landscape.</br> 
+https://github.com/skbd9/Pizza_data_analysis_in_Excel
 
 ## Let's Connect
 I'm always open to collaboration and exploring new opportunities.
