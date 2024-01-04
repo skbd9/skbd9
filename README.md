@@ -1,4 +1,4 @@
-Welcome❤💕 to my data analysis portfolio! I'm Shahriar from Bangladesh, a passionate data analyst with a keen interest in deriving insights from complex datasets. 
+Welcome to my data analysis portfolio! I'm Shahriar from Bangladesh, a passionate data analyst with a keen interest in deriving insights from complex datasets. 
 I bring a combination of analytical skills, domain knowledge, and a strong commitment to delivering data-driven solutions.
 
 
